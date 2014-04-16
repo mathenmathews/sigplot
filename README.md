@@ -11,4 +11,4 @@ API:
 
 Copyright and License
 =====================
-This work is protected by Copyright. Please refer to the [Copyright File](COPYRIGHT_LICENSE) for updated copyright information.
+This work is protected by Copyright and GPL License. Please refer to the [Copyright/License File](COPYRIGHT_LICENSE) for updated copyright and license information.
